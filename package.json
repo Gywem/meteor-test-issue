@@ -1,9 +1,9 @@
 {
-  "name": "pathable-admin",
+  "name": "meteor-test-issue",
   "version": "0.0.1",
-  "description": "Pathable.",
+  "description": "",
   "keywords": [],
-  "homepage": "http://pathable.com",
+  "homepage": "",
   "scripts": {
     "test": "meteor test --driver-package dispatch:mocha-browser ./ --port 4000"
   },
