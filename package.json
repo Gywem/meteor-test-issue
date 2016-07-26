@@ -1,0 +1,14 @@
+{
+  "name": "pathable-admin",
+  "version": "0.0.1",
+  "description": "Pathable.",
+  "keywords": [],
+  "homepage": "http://pathable.com",
+  "scripts": {
+    "test": "meteor test --driver-package dispatch:mocha-browser ./ --port 4000"
+  },
+  "dependencies": {
+    "redux": "^3.3.1",
+    "redux-form": "^5.0.1"
+  }
+}
